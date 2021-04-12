@@ -1,2 +1,2 @@
-# Analise_Equity
+# Logos-Analise
 Repositório para analises de equity
